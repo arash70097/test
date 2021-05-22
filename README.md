@@ -1,2 +1,1 @@
-مسدود شده ها
-Samsung----SM-G570F
+samsung----SM-G570F
